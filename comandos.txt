@@ -1,0 +1,21 @@
+Pagina de descarga de typeScript
+https://www.typescriptlang.org/download
+// Instalacion global
+> npm install -g typeScript
+// Validacion de version
+> tsc --version
+
+// Documentacion de typeScript
+https://www.typescriptlang.org/docs/
+
+// transpilar codigo TS a TS
+> tsc
+// Inicializar el TS
+> tsc --init   // Crea un archivos tsconfing.json con las configuraciones iniciales del TS
+
+
+// TS modo observador 
+tsc --watch // esto activa que siempre esta modificando nuestro TS a JS
+
+// Typos de valores en TS
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
